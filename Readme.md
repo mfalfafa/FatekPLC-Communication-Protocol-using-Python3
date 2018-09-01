@@ -11,7 +11,7 @@ This Python program is used to get data from Fatek PLC using Fatek standard prot
 
 Command format (from Python script)	: STX + SlaveStationNo + CommandNo + Data + LRCChecksum + ETX.
 LRC_checksum_calculator Python file is used to calculate LRC (Longitudinal Redundancy Check) of the command.
-PLC : Fatek FBs-20MCT2-AC
+PLC : **Fatek FBs-20MCT2-AC**
 
 > Refference
 
